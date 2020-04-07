@@ -225,15 +225,19 @@ GEMEtaPartition* GEMGeometryBuilderFromDDD::buildEtaPartition(DDFilteredView& fv
   // EtaPartition specific parameter (nstrips and npads)
   DDValue numbOfStrips("nStrips");
   DDValue numbOfPads("nPads");
+  DDValue delPhi("dPhi");
   std::vector<const DDsvalues_type*> specs(fv.specifics());
   std::vector<const DDsvalues_type*>::iterator is = specs.begin();
-  double nStrips = 0., nPads = 0.;
+  double nStrips = 0., nPads = 0., dPhi = 0.;
   for (; is != specs.end(); is++) {
     if (DDfetch(*is, numbOfStrips))
       nStrips = numbOfStrips.doubles()[0];
     if (DDfetch(*is, numbOfPads))
       nPads = numbOfPads.doubles()[0];
+    if (DDfetch(*is, delPhi))
+      dPhi = delPhi.doubles()[0];
   }
+  
   LogDebug("GEMGeometryBuilderFromDDD") << ((nStrips == 0.) ? ("No nStrips found!!")
                                                             : ("Number of strips: " + std::to_string(nStrips)));
   LogDebug("GEMGeometryBuilderFromDDD") << ((nPads == 0.) ? ("No nPads found!!")
@@ -253,7 +257,7 @@ GEMEtaPartition* GEMGeometryBuilderFromDDD::buildEtaPartition(DDFilteredView& fv
   pars.emplace_back(ap);
   pars.emplace_back(nStrips);
   pars.emplace_back(nPads);
-
+  pars.emplace_back(dPhi);
   bool isOdd = detId.chamber() % 2;
   RCPBoundPlane surf(boundPlane(fv, new TrapezoidalPlaneBounds(be, te, ap, ti), isOdd));
   std::string name = fv.logicalPart().name().name();

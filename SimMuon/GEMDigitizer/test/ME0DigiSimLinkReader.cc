@@ -26,7 +26,7 @@
 #include "DataFormats/Common/interface/DetSet.h"
 #include <iostream>
 #include "Geometry/GEMGeometry/interface/ME0EtaPartitionSpecs.h"
-#include "Geometry/CommonTopologies/interface/TrapezoidalStripTopology.h"
+#include "Geometry/CommonTopologies/interface/GEMStripTopology.h"
 #include "FWCore/ServiceRegistry/interface/Service.h"
 #include "CommonTools/UtilAlgos/interface/TFileService.h"
 #include "TH1F.h"
