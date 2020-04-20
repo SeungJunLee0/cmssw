@@ -1,0 +1,93 @@
+08-Apr-2020 03:23:40 KSTSuccessfully opened file file:step3_inDQM.root
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:dqmFastTimerServiceClient@endLumi  08-Apr-2020 03:24:09 KST Run: 1 Lumi: 1
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:dqmFastTimerServiceClient@endLumi  08-Apr-2020 03:24:09 KST Run: 1 Lumi: 1
+no puVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-e DQMGenericClient:  DQMGenericClient:postProcessorTrack@endRun  08-Apr-2020 03:24:10 KST End Run: 1
+ DQMGenericClient::findAllSubdirectories ==> Missing folder Tracking/TrackBHadron !!!
+%MSG
+%MSG-e DQMGenericClient:  DQMGenericClient:trackingEffFromHitPattern@endRun  08-Apr-2020 03:24:16 KST End Run: 1
+ DQMGenericClient::findAllSubdirectories ==> Missing folder Tracking/TrackParameters/highPurityTracks/pt_1/HIP_OOT_noINpu !!!
+%MSG
+%MSG-e DQMGenericClient:  DQMGenericClient:trackingEffFromHitPattern@endRun  08-Apr-2020 03:24:16 KST End Run: 1
+ DQMGenericClient::findAllSubdirectories ==> Missing folder Tracking/TrackParameters/highPurityTracks/pt_1/HIP_noOOT_INpu !!!
+%MSG
+%MSG-e DQMGenericClient:  DQMGenericClient:trackingEffFromHitPattern@endRun  08-Apr-2020 03:24:16 KST End Run: 1
+ DQMGenericClient::findAllSubdirectories ==> Missing folder Tracking/TrackParameters/highPurityTracks/pt_1/noHIP_noOOT_INpu !!!
+%MSG
+%MSG-e HcalDigisClient:  HcalDigisClient:hcaldigisClient@endJob  08-Apr-2020 03:24:18 KST EndJob
+No maps histos found...
+%MSG
+%MSG-e HcalDigisClient:  HcalDigisClient:hcaldigisClient@endJob  08-Apr-2020 03:24:18 KST EndJob
+Error in HcalDigisEndjob! HE
+%MSG
+%MSG-w DataNotFound:  OuterTrackerMCHarvester:OuterTrackerHarvesterV@endJob  08-Apr-2020 03:24:18 KST EndJob
+L1 tracks not found for pT resolution (2-3)!
+
+%MSG
+%MSG-w DataNotFound:  OuterTrackerMCHarvester:OuterTrackerHarvesterV@endJob  08-Apr-2020 03:24:18 KST EndJob
+L1 tracks not found for pT resolution (3-8)!
+
+%MSG
+%MSG-w DataNotFound:  OuterTrackerMCHarvester:OuterTrackerHarvesterV@endJob  08-Apr-2020 03:24:18 KST EndJob
+L1 tracks not found for pT resolution (8-inf)!
+
+%MSG
+%MSG-w DataNotFound:  OuterTrackerMCHarvester:OuterTrackerHarvesterV@endJob  08-Apr-2020 03:24:18 KST EndJob
+L1 tracks not found for eta resolution!
+
+%MSG
+%MSG-w DataNotFound:  OuterTrackerMCHarvester:OuterTrackerHarvesterV@endJob  08-Apr-2020 03:24:18 KST EndJob
+L1 tracks not found for phi resolution!
+
+%MSG
+%MSG-w DataNotFound:  OuterTrackerMCHarvester:OuterTrackerHarvesterV@endJob  08-Apr-2020 03:24:18 KST EndJob
+L1 tracks not found for VtxZ resolution!
+
+%MSG
+%MSG-w DataNotFound:  OuterTrackerMCHarvester:OuterTrackerHarvesterV@endJob  08-Apr-2020 03:24:18 KST EndJob
+L1 tracks not found for d0 resolution!
+
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:dqmFastTimerServiceClient@endJob  08-Apr-2020 03:24:18 KST EndJob
+no lumiVsLS ME is available in HLT/LumiMonitoring
+%MSG
+%MSG-w FastTimerServiceClient:   FastTimerServiceClient:dqmFastTimerServiceClient@endJob  08-Apr-2020 03:24:18 KST EndJob
+no puVsLS ME is available in HLT/LumiMonitoring
+%MSG
+DQMFileSaver::globalEndRun()
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 DataNotFound         -w OuterTrackerMCHa                       7        7
+    2 FastTimerServiceClie -w FastTimerService                       2        2
+    3 FastTimerServiceClie -w FastTimerService                       2        2
+    4 DQMGenericClient     -e DQMGenericClient                       1        1
+    5 DQMGenericClient     -e DQMGenericClient                       3        3
+    6 HcalDigisClient      -e HcalDigisClient:                       2        2
+    7 fileAction           -s AfterModBeginStr                       1        1
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 DataNotFound         EndJob           EndJob           EndJob
+    2 FastTimerServiceClient EndJob           EndJob           
+    3 FastTimerServiceClient Run: 1 Lumi: 1   Run: 1 Lumi: 1   
+    4 DQMGenericClient     End Run: 1                        
+    5 DQMGenericClient     End Run: 1       End Run: 1       End Run: 1
+    6 HcalDigisClient      EndJob           EndJob           
+    7 fileAction           BeforeEvents                      
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning                11                  11
+Error                   6                   6
+System                  1                   1
+
+dropped waiting message count 0
+08-Apr-2020 03:24:27 KSTClosed file

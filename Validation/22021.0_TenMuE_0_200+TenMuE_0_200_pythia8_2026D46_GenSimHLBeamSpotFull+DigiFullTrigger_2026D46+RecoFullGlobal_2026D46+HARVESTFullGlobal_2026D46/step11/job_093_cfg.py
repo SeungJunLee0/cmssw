@@ -1,0 +1,45 @@
+#!/usr/bin/env python
+import FWCore.ParameterSet.Config as cms
+import cPickle
+process = cPickle.load(open("job_cfg.pkl")) 
+process.source.firstRun = cms.untracked.uint32(1)
+process.source.firstLuminosityBlock = cms.untracked.uint32(94)
+process.RandomNumberGeneratorService.horeco.initialSeed = 2093
+process.RandomNumberGeneratorService.externalLHEProducer.initialSeed = 2094
+process.RandomNumberGeneratorService.saveFileName.initialSeed = 2095
+process.RandomNumberGeneratorService.mixRecoTracks.initialSeed = 2096
+process.RandomNumberGeneratorService.hbhereco.initialSeed = 2097
+process.RandomNumberGeneratorService.simSiStripDigiSimLink.initialSeed = 2098
+process.RandomNumberGeneratorService.paramMuons.initialSeed = 2099
+process.RandomNumberGeneratorService.famosPileUp.initialSeed = 2100
+process.RandomNumberGeneratorService.simMuonDTDigis.initialSeed = 2101
+process.RandomNumberGeneratorService.ecalPreshowerRecHit.initialSeed = 2102
+process.RandomNumberGeneratorService.generator.initialSeed = 2103
+process.RandomNumberGeneratorService.simMuonRPCDigis.initialSeed = 2104
+process.RandomNumberGeneratorService.hiSignal.initialSeed = 2105
+process.RandomNumberGeneratorService.CTPPSFastRecHits.initialSeed = 2106
+process.RandomNumberGeneratorService.mixSimCaloHits.initialSeed = 2107
+process.RandomNumberGeneratorService.mix.initialSeed = 2108
+process.RandomNumberGeneratorService.fastTrackerRecHits.initialSeed = 2109
+process.RandomNumberGeneratorService.VtxSmeared.initialSeed = 2110
+process.RandomNumberGeneratorService.LHCTransport.initialSeed = 2111
+process.RandomNumberGeneratorService.ecalRecHit.initialSeed = 2112
+process.RandomNumberGeneratorService.hfreco.initialSeed = 2113
+process.RandomNumberGeneratorService.fastSimProducer.initialSeed = 2114
+process.RandomNumberGeneratorService.hiSignalG4SimHits.initialSeed = 2115
+process.RandomNumberGeneratorService.MuonSimHits.initialSeed = 2116
+process.RandomNumberGeneratorService.g4SimHits.initialSeed = 2117
+process.RandomNumberGeneratorService.hiSignalLHCTransport.initialSeed = 2118
+process.RandomNumberGeneratorService.mixGenPU.initialSeed = 2119
+process.RandomNumberGeneratorService.l1ParamMuons.initialSeed = 2120
+process.RandomNumberGeneratorService.simBeamSpotFilter.initialSeed = 2121
+process.RandomNumberGeneratorService.simMuonCSCDigis.initialSeed = 2122
+process.RandomNumberGeneratorService.mixData.initialSeed = 2123
+process.RandomNumberGeneratorService.simMuonGEMDigis.initialSeed = 2124
+process.RandomNumberGeneratorService.simMuonME0Digis.initialSeed = 2125
+process.RandomNumberGeneratorService.simMuonME0PseudoReDigis.initialSeed = 2126
+process.RandomNumberGeneratorService.simMuonME0PseudoDigis.initialSeed = 2127
+process.RandomNumberGeneratorService.simMuonME0PseudoReDigisCoarse.initialSeed = 2128
+process.RandomNumberGeneratorService.trackTimeValueMapProducer.initialSeed = 2129
+process.RandomNumberGeneratorService.gsfTrackTimeValueMapProducer.initialSeed = 2130
+process.RandomNumberGeneratorService.ecalBarrelClusterFastTimer.initialSeed = 2131

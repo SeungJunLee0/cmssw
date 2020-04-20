@@ -1,0 +1,38 @@
+08-Apr-2020 03:02:26 KST  Initiating request to open file file:step1.root
+08-Apr-2020 03:02:28 KST  Successfully opened file file:step1.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 08-Apr-2020 03:07:12.562 KST
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 on stream 0 at 08-Apr-2020 03:07:34.840 KST
+DTTSPhi::addTracoT: preview not present in TRACO trigger or its code=0  trigger not added!
+DTTSPhi::addTracoT: preview not present in TRACO trigger or its code=0  trigger not added!
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 0 at 08-Apr-2020 03:07:42.149 KST
+DTTSPhi::addTracoT: preview not present in TRACO trigger or its code=0  trigger not added!
+DTTSPhi::addTracoT: preview not present in TRACO trigger or its code=0  trigger not added!
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 0 at 08-Apr-2020 03:07:49.410 KST
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 0 at 08-Apr-2020 03:07:56.218 KST
+DTTSPhi::addTracoT: preview not present in TRACO trigger or its code=0  trigger not added!
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 0 at 08-Apr-2020 03:08:03.710 KST
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 0 at 08-Apr-2020 03:08:10.502 KST
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 0 at 08-Apr-2020 03:08:17.694 KST
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 08-Apr-2020 03:08:24.439 KST
+Begin processing the 10th record. Run 1, Event 10, LumiSection 1 on stream 0 at 08-Apr-2020 03:08:31.734 KST
+08-Apr-2020 03:08:38 KST  Closed file file:step1.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostGlobalEndRun                  
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3
+
+dropped waiting message count 0

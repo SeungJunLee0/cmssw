@@ -1,0 +1,16 @@
+
+# in: /cms/ldap_home/seungjun/CMSSW_11_1_0_pre3/src/Validation going to execute cd 22021.0_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46
+ cmsDriver.py TenMuE_0_200_pythia8_cfi  --conditions auto:phase2_realistic_T15 -n 10 --era Phase2C9 --eventcontent FEVTDEBUG --relval 10000,100 -s GEN,SIM --datatier GEN-SIM --beamspot HLLHC --geometry Extended2026D46 --fileout file:step1.root  > step1_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46.log  2>&1
+ 
+
+# in: /cms/ldap_home/seungjun/CMSSW_11_1_0_pre3/src/Validation going to execute cd 22021.0_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46
+ cmsDriver.py step2  --conditions auto:phase2_realistic_T15 -s DIGI:pdigi_valid,L1,L1TrackTrigger,DIGI2RAW,HLT:@fake2 --datatier GEN-SIM-DIGI-RAW -n 10 --geometry Extended2026D46 --era Phase2C9 --eventcontent FEVTDEBUGHLT --filein  file:step1.root  --fileout file:step2.root  > step2_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46.log  2>&1
+ 
+
+# in: /cms/ldap_home/seungjun/CMSSW_11_1_0_pre3/src/Validation going to execute cd 22021.0_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46
+ cmsDriver.py step3  --conditions auto:phase2_realistic_T15 -n 10 --era Phase2C9 --eventcontent FEVTDEBUGHLT,MINIAODSIM,DQM --runUnscheduled  -s RAW2DIGI,L1Reco,RECO,RECOSIM,PAT,VALIDATION:@phase2Validation+@miniAODValidation,DQM:@phase2+@miniAODDQM --datatier GEN-SIM-RECO,MINIAODSIM,DQMIO --geometry Extended2026D46 --filein  file:step2.root  --fileout file:step3.root  > step3_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46.log  2>&1
+ 
+
+# in: /cms/ldap_home/seungjun/CMSSW_11_1_0_pre3/src/Validation going to execute cd 22021.0_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46
+ cmsDriver.py step4  --conditions auto:phase2_realistic_T15 -s HARVESTING:@phase2Validation+@phase2+@miniAODValidation+@miniAODDQM --scenario pp --filetype DQM --geometry Extended2026D46 --era Phase2C9 --mc  -n 100  --filein file:step3_inDQM.root --fileout file:step4.root  > step4_TenMuE_0_200+TenMuE_0_200_pythia8_2026D46_GenSimHLBeamSpotFull+DigiFullTrigger_2026D46+RecoFullGlobal_2026D46+HARVESTFullGlobal_2026D46.log  2>&1
+ 

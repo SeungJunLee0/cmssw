@@ -1,0 +1,994 @@
+09-Apr-2020 14:40:02 UTC  Initiating request to open file root://cms-xrdr.private.lo:2094//xrd//store/user/seungjun/NEW_DIRAA/step1_053.root
+09-Apr-2020 14:40:06 UTC  Successfully opened file root://cms-xrdr.private.lo:2094//xrd//store/user/seungjun/NEW_DIRAA/step1_053.root
+Begin processing the 1st record. Run 1, Event 1, LumiSection 54 on stream 0 at 09-Apr-2020 14:42:13.707 UTC
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 54 on stream 0 at 09-Apr-2020 14:45:11.162 UTC
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 54 on stream 0 at 09-Apr-2020 14:45:20.885 UTC
+Begin processing the 4th record. Run 1, Event 4, LumiSection 54 on stream 0 at 09-Apr-2020 14:45:32.654 UTC
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:45:41 UTC  Run: 1 Event: 4
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+Begin processing the 5th record. Run 1, Event 5, LumiSection 54 on stream 0 at 09-Apr-2020 14:45:43.790 UTC
+Begin processing the 6th record. Run 1, Event 6, LumiSection 54 on stream 0 at 09-Apr-2020 14:45:54.697 UTC
+Begin processing the 7th record. Run 1, Event 7, LumiSection 54 on stream 0 at 09-Apr-2020 14:46:04.969 UTC
+Begin processing the 8th record. Run 1, Event 8, LumiSection 54 on stream 0 at 09-Apr-2020 14:46:15.607 UTC
+Begin processing the 9th record. Run 1, Event 9, LumiSection 54 on stream 0 at 09-Apr-2020 14:46:26.258 UTC
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+%MSG-w L1T:  L1TMuonEndCapTrackProducer:simEmtfDigis 09-Apr-2020 14:46:31 UTC  Run: 1 Event: 9
+EMTF CSC format error in station 2, ring 1: tp_data.strip = 13390 (max = 159)
+%MSG
+Begin processing the 10th record. Run 1, Event 10, LumiSection 54 on stream 0 at 09-Apr-2020 14:46:33.781 UTC
+Begin processing the 11th record. Run 1, Event 11, LumiSection 54 on stream 0 at 09-Apr-2020 14:46:40.990 UTC
+Begin processing the 12th record. Run 1, Event 12, LumiSection 54 on stream 0 at 09-Apr-2020 14:46:48.360 UTC
+Begin processing the 13th record. Run 1, Event 13, LumiSection 54 on stream 0 at 09-Apr-2020 14:46:55.108 UTC
+Begin processing the 14th record. Run 1, Event 14, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:02.066 UTC
+Begin processing the 15th record. Run 1, Event 15, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:08.724 UTC
+Begin processing the 16th record. Run 1, Event 16, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:15.637 UTC
+Begin processing the 17th record. Run 1, Event 17, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:22.481 UTC
+Begin processing the 18th record. Run 1, Event 18, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:29.141 UTC
+Begin processing the 19th record. Run 1, Event 19, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:35.683 UTC
+Begin processing the 20th record. Run 1, Event 21, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:43.207 UTC
+Begin processing the 21st record. Run 1, Event 22, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:50.010 UTC
+Begin processing the 22nd record. Run 1, Event 23, LumiSection 54 on stream 0 at 09-Apr-2020 14:47:56.660 UTC
+Begin processing the 23rd record. Run 1, Event 24, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:04.229 UTC
+Begin processing the 24th record. Run 1, Event 25, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:10.826 UTC
+Begin processing the 25th record. Run 1, Event 26, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:17.683 UTC
+Begin processing the 26th record. Run 1, Event 27, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:25.140 UTC
+Begin processing the 27th record. Run 1, Event 28, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:31.821 UTC
+Begin processing the 28th record. Run 1, Event 29, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:38.564 UTC
+Begin processing the 29th record. Run 1, Event 30, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:45.350 UTC
+Begin processing the 30th record. Run 1, Event 31, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:52.190 UTC
+Begin processing the 31st record. Run 1, Event 32, LumiSection 54 on stream 0 at 09-Apr-2020 14:48:58.702 UTC
+Begin processing the 32nd record. Run 1, Event 33, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:05.488 UTC
+Begin processing the 33rd record. Run 1, Event 34, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:12.039 UTC
+Begin processing the 34th record. Run 1, Event 35, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:18.529 UTC
+Begin processing the 35th record. Run 1, Event 36, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:25.060 UTC
+Begin processing the 36th record. Run 1, Event 37, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:31.901 UTC
+Begin processing the 37th record. Run 1, Event 38, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:38.482 UTC
+Begin processing the 38th record. Run 1, Event 39, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:45.374 UTC
+Begin processing the 39th record. Run 1, Event 40, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:52.295 UTC
+Begin processing the 40th record. Run 1, Event 41, LumiSection 54 on stream 0 at 09-Apr-2020 14:49:58.936 UTC
+Begin processing the 41st record. Run 1, Event 42, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:05.570 UTC
+Begin processing the 42nd record. Run 1, Event 43, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:12.142 UTC
+Begin processing the 43rd record. Run 1, Event 44, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:18.660 UTC
+Begin processing the 44th record. Run 1, Event 45, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:25.150 UTC
+Begin processing the 45th record. Run 1, Event 46, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:31.949 UTC
+Begin processing the 46th record. Run 1, Event 47, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:38.597 UTC
+Begin processing the 47th record. Run 1, Event 48, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:45.451 UTC
+Begin processing the 48th record. Run 1, Event 49, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:52.103 UTC
+Begin processing the 49th record. Run 1, Event 50, LumiSection 54 on stream 0 at 09-Apr-2020 14:50:58.887 UTC
+Begin processing the 50th record. Run 1, Event 51, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:05.534 UTC
+Begin processing the 51st record. Run 1, Event 52, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:12.393 UTC
+Begin processing the 52nd record. Run 1, Event 53, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:19.346 UTC
+Begin processing the 53rd record. Run 1, Event 54, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:26.191 UTC
+Begin processing the 54th record. Run 1, Event 55, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:33.085 UTC
+Begin processing the 55th record. Run 1, Event 56, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:40.022 UTC
+Begin processing the 56th record. Run 1, Event 57, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:46.709 UTC
+Begin processing the 57th record. Run 1, Event 58, LumiSection 54 on stream 0 at 09-Apr-2020 14:51:53.376 UTC
+Begin processing the 58th record. Run 1, Event 59, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:00.214 UTC
+Begin processing the 59th record. Run 1, Event 60, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:06.806 UTC
+Begin processing the 60th record. Run 1, Event 61, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:13.783 UTC
+Begin processing the 61st record. Run 1, Event 62, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:20.351 UTC
+Begin processing the 62nd record. Run 1, Event 63, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:27.218 UTC
+Begin processing the 63rd record. Run 1, Event 64, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:33.771 UTC
+Begin processing the 64th record. Run 1, Event 65, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:40.685 UTC
+Begin processing the 65th record. Run 1, Event 66, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:47.631 UTC
+Begin processing the 66th record. Run 1, Event 67, LumiSection 54 on stream 0 at 09-Apr-2020 14:52:54.730 UTC
+Begin processing the 67th record. Run 1, Event 68, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:01.327 UTC
+Begin processing the 68th record. Run 1, Event 69, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:08.055 UTC
+Begin processing the 69th record. Run 1, Event 70, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:14.924 UTC
+Begin processing the 70th record. Run 1, Event 71, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:21.574 UTC
+Begin processing the 71st record. Run 1, Event 72, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:28.145 UTC
+Begin processing the 72nd record. Run 1, Event 73, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:34.658 UTC
+Begin processing the 73rd record. Run 1, Event 74, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:41.504 UTC
+Begin processing the 74th record. Run 1, Event 75, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:48.021 UTC
+Begin processing the 75th record. Run 1, Event 76, LumiSection 54 on stream 0 at 09-Apr-2020 14:53:54.510 UTC
+Begin processing the 76th record. Run 1, Event 77, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:01.323 UTC
+Begin processing the 77th record. Run 1, Event 78, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:08.230 UTC
+Begin processing the 78th record. Run 1, Event 79, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:15.025 UTC
+Begin processing the 79th record. Run 1, Event 80, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:21.799 UTC
+Begin processing the 80th record. Run 1, Event 81, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:28.473 UTC
+Begin processing the 81st record. Run 1, Event 82, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:35.012 UTC
+Begin processing the 82nd record. Run 1, Event 83, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:41.848 UTC
+Begin processing the 83rd record. Run 1, Event 84, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:48.445 UTC
+Begin processing the 84th record. Run 1, Event 85, LumiSection 54 on stream 0 at 09-Apr-2020 14:54:55.226 UTC
+Begin processing the 85th record. Run 1, Event 86, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:01.810 UTC
+Begin processing the 86th record. Run 1, Event 87, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:08.618 UTC
+Begin processing the 87th record. Run 1, Event 88, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:15.395 UTC
+Begin processing the 88th record. Run 1, Event 89, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:21.847 UTC
+Begin processing the 89th record. Run 1, Event 90, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:28.498 UTC
+Begin processing the 90th record. Run 1, Event 91, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:34.945 UTC
+Begin processing the 91st record. Run 1, Event 92, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:41.509 UTC
+Begin processing the 92nd record. Run 1, Event 93, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:48.095 UTC
+Begin processing the 93rd record. Run 1, Event 94, LumiSection 54 on stream 0 at 09-Apr-2020 14:55:54.578 UTC
+Begin processing the 94th record. Run 1, Event 95, LumiSection 54 on stream 0 at 09-Apr-2020 14:56:01.297 UTC
+Begin processing the 95th record. Run 1, Event 96, LumiSection 54 on stream 0 at 09-Apr-2020 14:56:08.028 UTC
+Begin processing the 96th record. Run 1, Event 97, LumiSection 54 on stream 0 at 09-Apr-2020 14:56:14.566 UTC
+Begin processing the 97th record. Run 1, Event 98, LumiSection 54 on stream 0 at 09-Apr-2020 14:56:21.243 UTC
+Begin processing the 98th record. Run 1, Event 99, LumiSection 54 on stream 0 at 09-Apr-2020 14:56:27.997 UTC
+Begin processing the 99th record. Run 1, Event 100, LumiSection 54 on stream 0 at 09-Apr-2020 14:56:34.743 UTC
+09-Apr-2020 14:56:41 UTC  Closed file root://cms-xrdr.private.lo:2094//xrd//store/user/seungjun/NEW_DIRAA/step1_053.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 L1T                  -w L1TMuonEndCapTra                     288      288
+    2 fileAction           -s file_close                             1        1
+    3 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 L1T                  1/4              1/4              1/9
+    2 fileAction           PostGlobalEndRun                  
+    3 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+Warning               288                 288
+System                  3                   3
+
+dropped waiting message count 0
+
+real	17m49.276s
+user	12m47.144s
+sys	0m8.926s
+[16MB/128.3MB][ 12%][======>                                           ][16MB/s]  [64MB/128.3MB][ 49%][========================>                         ][64MB/s]  [128.3MB/128.3MB][100%][==================================================][128.3MB/s]  [128.3MB/128.3MB][100%][==================================================][128.3MB/s]  

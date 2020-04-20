@@ -1,0 +1,34 @@
+08-Apr-2020 03:11:26 KST  Initiating request to open file file:step2.root
+08-Apr-2020 03:11:31 KST  Successfully opened file file:step2.root
+2020-04-08 03:12:16.839980: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX
+Begin processing the 1st record. Run 1, Event 1, LumiSection 1 on stream 0 at 08-Apr-2020 03:16:47.824 KST
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:22.684 KST
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:25.945 KST
+Begin processing the 4th record. Run 1, Event 4, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:29.343 KST
+Begin processing the 5th record. Run 1, Event 5, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:32.272 KST
+Begin processing the 6th record. Run 1, Event 6, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:35.033 KST
+Begin processing the 7th record. Run 1, Event 7, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:38.284 KST
+Begin processing the 8th record. Run 1, Event 8, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:41.098 KST
+Begin processing the 9th record. Run 1, Event 9, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:44.174 KST
+Begin processing the 10th record. Run 1, Event 10, LumiSection 1 on stream 0 at 08-Apr-2020 03:17:47.000 KST
+08-Apr-2020 03:17:53 KST  Closed file file:step2.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostGlobalEndRun                  
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3
+
+dropped waiting message count 0

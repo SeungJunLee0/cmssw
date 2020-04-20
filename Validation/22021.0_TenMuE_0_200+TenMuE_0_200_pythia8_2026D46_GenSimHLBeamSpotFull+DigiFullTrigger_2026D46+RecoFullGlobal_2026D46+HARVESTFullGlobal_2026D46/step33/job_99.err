@@ -1,0 +1,200 @@
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc: In member function 'virtual void GEMGeometryAnalyzer::analyze(const edm::Event&, const edm::EventSetup&)':
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:178:14: warning: unused variable 'bottomEdge' [-Wunused-variable]
+        float bottomEdge(parameters[0]);
+              ^~~~~~~~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:179:14: warning: unused variable 'topEdge' [-Wunused-variable]
+        float topEdge(parameters[1]);
+              ^~~~~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:182:14: warning: unused variable 'nPads' [-Wunused-variable]
+        float nPads(parameters[4]);
+              ^~~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:194:15: warning: unused variable 'cx' [-Wunused-variable]
+        double cx(gCentre.x());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:195:15: warning: unused variable 'cy' [-Wunused-variable]
+        double cy(gCentre.y());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:196:15: warning: unused variable 'cz' [-Wunused-variable]
+        double cz(gCentre.z());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:197:15: warning: unused variable 'ceta' [-Wunused-variable]
+        double ceta(gCentre.eta());
+               ^~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:203:15: warning: unused variable 'tx' [-Wunused-variable]
+        double tx(gTop.x());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:204:15: warning: unused variable 'ty' [-Wunused-variable]
+        double ty(gTop.y());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:205:15: warning: unused variable 'tz' [-Wunused-variable]
+        double tz(gTop.z());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:212:15: warning: unused variable 'bx' [-Wunused-variable]
+        double bx(gBottom.x());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:213:15: warning: unused variable 'by' [-Wunused-variable]
+        double by(gBottom.y());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:214:15: warning: unused variable 'bz' [-Wunused-variable]
+        double bz(gBottom.z());
+               ^~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:222:14: warning: unused variable 'pitch' [-Wunused-variable]
+        float pitch(roll->pitch());
+              ^~~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:223:14: warning: unused variable 'topPitch' [-Wunused-variable]
+        float topPitch(roll->localPitch(lTop));
+              ^~~~~~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:224:14: warning: unused variable 'bottomPitch' [-Wunused-variable]
+        float bottomPitch(roll->localPitch(lBottom));
+              ^~~~~~~~~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:238:15: warning: unused variable 'deta' [-Wunused-variable]
+        double deta(abs(beta - teta));
+               ^~~~
+/srv/CMSSW_11_1_0_pre3/src/Geometry/GEMGeometry/test/GEMGeometryAnalyzer.cc:150:11: warning: unused variable 'nRolls' [-Wunused-variable]
+       int nRolls(ch->nEtaPartitions());
+           ^~~~~~
+20-Apr-2020 09:42:59 UTC  Initiating request to open file root://cms-xrdr.private.lo:2094//xrd//store/user/seungjun/NEW_DIRBB/step2_099.root
+20-Apr-2020 09:43:06 UTC  Successfully opened file root://cms-xrdr.private.lo:2094//xrd//store/user/seungjun/NEW_DIRBB/step2_099.root
+2020-04-20 09:43:19.574604: I tensorflow/core/platform/cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+Begin processing the 1st record. Run 1, Event 1, LumiSection 100 on stream 0 at 20-Apr-2020 09:47:53.352 UTC
+Begin processing the 2nd record. Run 1, Event 2, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:06.763 UTC
+Begin processing the 3rd record. Run 1, Event 3, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:10.860 UTC
+Begin processing the 4th record. Run 1, Event 4, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:13.550 UTC
+Begin processing the 5th record. Run 1, Event 5, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:16.637 UTC
+Begin processing the 6th record. Run 1, Event 6, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:19.666 UTC
+Begin processing the 7th record. Run 1, Event 7, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:22.840 UTC
+Begin processing the 8th record. Run 1, Event 8, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:24.348 UTC
+Begin processing the 9th record. Run 1, Event 9, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:26.840 UTC
+Begin processing the 10th record. Run 1, Event 10, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:29.287 UTC
+Begin processing the 11th record. Run 1, Event 11, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:31.905 UTC
+Begin processing the 12th record. Run 1, Event 12, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:34.494 UTC
+Begin processing the 13th record. Run 1, Event 13, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:37.925 UTC
+Begin processing the 14th record. Run 1, Event 14, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:39.568 UTC
+Begin processing the 15th record. Run 1, Event 15, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:42.358 UTC
+Begin processing the 16th record. Run 1, Event 16, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:46.440 UTC
+Begin processing the 17th record. Run 1, Event 17, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:49.292 UTC
+Begin processing the 18th record. Run 1, Event 18, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:52.455 UTC
+Begin processing the 19th record. Run 1, Event 19, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:55.030 UTC
+Begin processing the 20th record. Run 1, Event 20, LumiSection 100 on stream 0 at 20-Apr-2020 09:48:58.009 UTC
+Begin processing the 21st record. Run 1, Event 21, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:00.869 UTC
+Begin processing the 22nd record. Run 1, Event 22, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:02.463 UTC
+Begin processing the 23rd record. Run 1, Event 23, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:05.093 UTC
+Begin processing the 24th record. Run 1, Event 24, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:07.680 UTC
+Begin processing the 25th record. Run 1, Event 25, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:10.482 UTC
+Begin processing the 26th record. Run 1, Event 26, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:13.381 UTC
+Begin processing the 27th record. Run 1, Event 27, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:17.758 UTC
+Begin processing the 28th record. Run 1, Event 28, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:19.960 UTC
+Begin processing the 29th record. Run 1, Event 29, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:22.143 UTC
+Begin processing the 30th record. Run 1, Event 30, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:23.878 UTC
+Begin processing the 31st record. Run 1, Event 31, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:27.124 UTC
+Begin processing the 32nd record. Run 1, Event 32, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:30.265 UTC
+Begin processing the 33rd record. Run 1, Event 33, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:32.840 UTC
+Begin processing the 34th record. Run 1, Event 34, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:36.513 UTC
+Begin processing the 35th record. Run 1, Event 35, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:40.041 UTC
+Begin processing the 36th record. Run 1, Event 36, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:42.415 UTC
+Begin processing the 37th record. Run 1, Event 37, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:45.348 UTC
+Begin processing the 38th record. Run 1, Event 38, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:48.221 UTC
+Begin processing the 39th record. Run 1, Event 39, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:52.291 UTC
+Begin processing the 40th record. Run 1, Event 40, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:54.662 UTC
+Begin processing the 41st record. Run 1, Event 41, LumiSection 100 on stream 0 at 20-Apr-2020 09:49:58.084 UTC
+Begin processing the 42nd record. Run 1, Event 42, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:00.265 UTC
+Begin processing the 43rd record. Run 1, Event 43, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:02.803 UTC
+Begin processing the 44th record. Run 1, Event 44, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:05.932 UTC
+Begin processing the 45th record. Run 1, Event 45, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:08.774 UTC
+Begin processing the 46th record. Run 1, Event 46, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:11.046 UTC
+Begin processing the 47th record. Run 1, Event 47, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:14.060 UTC
+Begin processing the 48th record. Run 1, Event 48, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:17.365 UTC
+Begin processing the 49th record. Run 1, Event 49, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:19.307 UTC
+Begin processing the 50th record. Run 1, Event 50, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:22.156 UTC
+Begin processing the 51st record. Run 1, Event 51, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:25.022 UTC
+Begin processing the 52nd record. Run 1, Event 52, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:27.604 UTC
+Begin processing the 53rd record. Run 1, Event 54, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:30.566 UTC
+Begin processing the 54th record. Run 1, Event 55, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:33.625 UTC
+Begin processing the 55th record. Run 1, Event 56, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:36.345 UTC
+Begin processing the 56th record. Run 1, Event 57, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:39.253 UTC
+Begin processing the 57th record. Run 1, Event 58, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:41.581 UTC
+Begin processing the 58th record. Run 1, Event 59, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:43.711 UTC
+Begin processing the 59th record. Run 1, Event 60, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:46.388 UTC
+Begin processing the 60th record. Run 1, Event 61, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:49.535 UTC
+Begin processing the 61st record. Run 1, Event 62, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:52.782 UTC
+Begin processing the 62nd record. Run 1, Event 63, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:56.727 UTC
+Begin processing the 63rd record. Run 1, Event 64, LumiSection 100 on stream 0 at 20-Apr-2020 09:50:59.377 UTC
+Begin processing the 64th record. Run 1, Event 65, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:02.338 UTC
+Begin processing the 65th record. Run 1, Event 66, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:04.923 UTC
+Begin processing the 66th record. Run 1, Event 67, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:07.846 UTC
+Begin processing the 67th record. Run 1, Event 68, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:10.191 UTC
+Begin processing the 68th record. Run 1, Event 69, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:12.376 UTC
+Begin processing the 69th record. Run 1, Event 70, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:14.330 UTC
+Begin processing the 70th record. Run 1, Event 71, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:17.480 UTC
+Begin processing the 71st record. Run 1, Event 72, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:20.066 UTC
+Begin processing the 72nd record. Run 1, Event 73, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:21.460 UTC
+Begin processing the 73rd record. Run 1, Event 74, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:24.018 UTC
+Begin processing the 74th record. Run 1, Event 75, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:26.616 UTC
+Begin processing the 75th record. Run 1, Event 76, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:29.069 UTC
+Begin processing the 76th record. Run 1, Event 77, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:31.210 UTC
+Begin processing the 77th record. Run 1, Event 78, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:33.143 UTC
+Begin processing the 78th record. Run 1, Event 79, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:35.299 UTC
+Begin processing the 79th record. Run 1, Event 80, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:38.240 UTC
+Begin processing the 80th record. Run 1, Event 81, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:40.532 UTC
+Begin processing the 81st record. Run 1, Event 82, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:43.054 UTC
+Begin processing the 82nd record. Run 1, Event 83, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:45.414 UTC
+Begin processing the 83rd record. Run 1, Event 84, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:47.189 UTC
+Begin processing the 84th record. Run 1, Event 85, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:49.320 UTC
+Begin processing the 85th record. Run 1, Event 86, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:52.508 UTC
+Begin processing the 86th record. Run 1, Event 87, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:55.397 UTC
+Begin processing the 87th record. Run 1, Event 89, LumiSection 100 on stream 0 at 20-Apr-2020 09:51:57.326 UTC
+Begin processing the 88th record. Run 1, Event 90, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:00.357 UTC
+Begin processing the 89th record. Run 1, Event 91, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:02.500 UTC
+Begin processing the 90th record. Run 1, Event 92, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:04.847 UTC
+Begin processing the 91st record. Run 1, Event 93, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:07.640 UTC
+Begin processing the 92nd record. Run 1, Event 94, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:09.906 UTC
+Begin processing the 93rd record. Run 1, Event 95, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:12.247 UTC
+Begin processing the 94th record. Run 1, Event 96, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:15.593 UTC
+Begin processing the 95th record. Run 1, Event 97, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:17.796 UTC
+Begin processing the 96th record. Run 1, Event 98, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:21.025 UTC
+Begin processing the 97th record. Run 1, Event 99, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:24.058 UTC
+Begin processing the 98th record. Run 1, Event 100, LumiSection 100 on stream 0 at 20-Apr-2020 09:52:26.571 UTC
+20-Apr-2020 09:52:32 UTC  Closed file root://cms-xrdr.private.lo:2094//xrd//store/user/seungjun/NEW_DIRBB/step2_099.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             1        1
+    2 fileAction           -s file_open                              2        2
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostGlobalEndRun                  
+    2 fileAction           pre-events       pre-events       
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  3                   3
+
+dropped waiting message count 0
+
+real	10m57.158s
+user	6m32.017s
+sys	0m15.649s
+[0B/0B][100%][==================================================][0B/s]  
+Run: [ERROR] Server responded with an error: [3011] No servers are available to write the file.
+
+[0B/0B][100%][==================================================][0B/s]  
+Run: [ERROR] Server responded with an error: [3011] No servers are available to write the file.
+
+[0B/0B][100%][==================================================][0B/s]  
+Run: [ERROR] Server responded with an error: [3011] No servers are available to write the file.
+
+[16MB/19.71MB][ 81%][========================================>         ][16MB/s]  [19.71MB/19.71MB][100%][==================================================][19.71MB/s]  [19.71MB/19.71MB][100%][==================================================][19.71MB/s]  
+[0B/0B][100%][==================================================][0B/s]  
+Run: [ERROR] Server responded with an error: [3011] No servers are available to write the file.
+
+[0B/0B][100%][==================================================][0B/s]  
+Run: [ERROR] Server responded with an error: [3011] No servers are available to write the file.
+
+[0B/0B][100%][==================================================][0B/s]  
+Run: [ERROR] Server responded with an error: [3011] No servers are available to write the file.
+
