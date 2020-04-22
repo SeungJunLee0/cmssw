@@ -25,8 +25,12 @@ class GEMRecHitValidation : public GEMBaseValidation {
   MEMap3Ids me_detail_cls_;
 
   MEMap1Ids me_residual_x_;
+  MEMap1Ids me_residual_x_in_5_;
+  MEMap1Ids me_residual_x_in_15_;
   MEMap1Ids me_residual_y_;
   MEMap3Ids me_detail_residual_x_;
+  MEMap3Ids me_detail_residual_x_in_5_;
+  MEMap3Ids me_detail_residual_x_in_15_;
   MEMap3Ids me_detail_residual_y_;
 
   MEMap1Ids me_pull_x_;
